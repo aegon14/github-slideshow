@@ -5,3 +5,4 @@ clc
 %% Part 1.
 name = 'Rithwik Goud Salloori';
 fprintf('My name is %s.\n', name);
+
